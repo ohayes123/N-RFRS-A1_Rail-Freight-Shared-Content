@@ -3,6 +3,7 @@
 ## The Beginning: Australia's First Railways (1854–1880s)
 
 Australia's rail revolution began on September 26, 1854, when the first steam-powered railway opened in Victoria between Melbourne and Hobson's Bay, just 16 kilometers long. This marked a watershed moment in Australian history. As a vast, sparsely populated continent, Australia had unique geographical challenges that made transportation infrastructure critical to economic development and settlement expansion. The success of Victoria's pioneering line inspired rapid adoption across other colonies. New South Wales opened its first railway between Sydney and Newcastle in 1855, followed by South Australia in 1856. These early lines were driven by the colonial need to connect ports, regional centers, and emerging pastoral regions, enabling the movement of wool, minerals, and agricultural products to export markets.
+CHANGE
 
 ## Colonial Expansion and the Gauge Problem (1850s–1900)
 
