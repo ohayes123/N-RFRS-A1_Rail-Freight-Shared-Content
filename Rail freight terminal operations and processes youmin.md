@@ -1,12 +1,12 @@
-Rail Freight Terminal Operations and Processes
+# Rail Freight Terminal Operations and Processes
 
-Estimated duration: 45–60 minutes
-Level: Foundation to intermediate
+**Estimated duration:** 45-60 minutes
+**Level:** Foundation to intermediate
 
-Overview
+## Overview
 Rail freight terminals are the connection points between rail lines, road networks, warehouses, and customers. A terminal’s performance depends on safe execution, accurate data, and coordinated timing between people, equipment, and trains. This learning block explains how terminal operations typically work from pre-arrival planning through train departure, and how teams maintain flow when disruptions occur.
 
-Learning objectives
+## Learning Objectives
 By the end of this module, learners should be able to:
 1. Describe the end-to-end process flow of a rail freight terminal.
 2. Explain the critical checks required at train arrival, loading/unloading, and departure.
@@ -14,10 +14,10 @@ By the end of this module, learners should be able to:
 4. Apply practical controls that improve safety, reliability, and turnaround performance.
 5. Respond to common operational exceptions using a structured approach.
 
-1) Terminal operating context
+## 1. Terminal Operating Context
 Rail terminals may handle:
 - Intermodal containers (rail to truck and truck to rail)
-- Bulk commodities (e.g., grain, minerals, aggregates)
+- Bulk commodities (for example, grain, minerals, aggregates)
 - Break-bulk or specialized cargo requiring custom handling
 
 Common operating goals include:
@@ -27,38 +27,38 @@ Common operating goals include:
 - Accurate cargo, wagon, and train data
 - Efficient use of tracks, cranes/reach stackers, locomotives, and labor
 
-Core performance indicators often include train turnaround time, wagon dwell time, loading/unloading productivity, equipment utilization, service punctuality, and data quality/error rate.
+Core performance indicators often include train turnaround time, wagon dwell time, loading/unloading productivity, equipment utilization, service punctuality, and data quality/error rates.
 
-2) Roles and responsibilities
+## 2. Roles and Responsibilities
 Although structures vary by terminal, core roles usually include:
 
-Operations coordinator / terminal controller
+### Operations Coordinator / Terminal Controller
 - Maintains the operating plan for train slots, tracks, and resources.
 - Aligns with rail network schedules and customer commitments.
 - Coordinates exceptions and recovery actions.
 
-Yard supervisor
+### Yard Supervisor
 - Manages on-ground task sequencing and work zone control.
 - Confirms safe movement authority and line-of-sight procedures.
 - Ensures teams follow handling and segregation requirements.
 
-Equipment operators
+### Equipment Operators
 - Operate cranes, forklifts, reach stackers, or shunting equipment.
 - Execute lifts and moves according to plan and safety rules.
 - Report defects, unsafe conditions, and delays promptly.
 
-Documentation / data team
+### Documentation / Data Team
 - Verifies consignment, wagon, and container records.
 - Updates terminal operating systems and event timestamps.
 - Confirms departure documentation and handover completeness.
 
-Maintenance and support teams
+### Maintenance and Support Teams
 - Keep infrastructure and handling equipment operational.
 - Provide rapid response for breakdowns and preventive checks.
 
-3) End-to-end process flow
+## 3. End-to-End Process Flow
 
-Stage A: Pre-arrival planning
+### Stage A: Pre-Arrival Planning
 Good terminal performance starts before the train arrives.
 
 Typical activities:
@@ -68,10 +68,10 @@ Typical activities:
 - Review special handling needs (dangerous goods, temperature-controlled units, oversize cargo).
 - Issue shift briefings covering safety alerts, weather impacts, and operational priorities.
 
-Key control point:
-If plan-data quality is poor (wrong wagon order, missing cargo details), delays cascade through every downstream step. Early validation prevents rework.
+**Key control point:**
+If planning data quality is poor (wrong wagon order, missing cargo details), delays cascade through every downstream step. Early validation prevents rework.
 
-Stage B: Arrival and intake
+### Stage B: Arrival and Intake
 When a train enters terminal control, teams perform safety and condition checks before handling begins.
 
 Typical activities:
@@ -81,10 +81,10 @@ Typical activities:
 - Record arrival time and status exceptions.
 - Resolve mismatches between planned and actual consist.
 
-Key control point:
+**Key control point:**
 Never begin transfer operations until movement authority, safe access, and equipment readiness are confirmed.
 
-Stage C: Unloading and loading operations
+### Stage C: Unloading and Loading Operations
 This stage is where terminal productivity is most visible.
 
 Typical activities:
@@ -99,7 +99,7 @@ Productivity and quality principles:
 - Keep travel paths clear: Congestion in transfer lanes can reduce effective throughput.
 - Protect data integrity: Physical moves and system events must stay synchronized.
 
-Stage D: Documentation and reconciliation
+### Stage D: Documentation and Reconciliation
 Terminal work is incomplete until physical and digital records match.
 
 Typical activities:
@@ -108,10 +108,10 @@ Typical activities:
 - Record exceptions (damage, shortages, overages, contamination, seal irregularities).
 - Communicate status updates to rail operator, customer, and downstream transport partners.
 
-Key control point:
+**Key control point:**
 Late or inaccurate reconciliation creates billing disputes, compliance risk, and downstream delivery failures.
 
-Stage E: Departure readiness and handover
+### Stage E: Departure Readiness and Handover
 Before a train departs, the terminal verifies technical, operational, and documentation readiness.
 
 Typical activities:
@@ -121,10 +121,10 @@ Typical activities:
 - Issue final departure documentation and system status updates.
 - Handover to rail network operations with confirmed departure time.
 
-Key control point:
-Departure should be “first-time right.” Last-minute corrections are high-risk and often cause slot misses.
+**Key control point:**
+Departure should be "first-time right." Last-minute corrections are high-risk and often cause slot misses.
 
-4) Safety and risk controls in terminal operations
+## 4. Safety and Risk Controls in Terminal Operations
 Safety is embedded at every stage, not isolated to a single checklist.
 
 High-priority controls:
@@ -135,10 +135,10 @@ High-priority controls:
 - Fatigue, weather, and visibility management (especially in night or adverse conditions).
 - Immediate stop-work authority when unsafe conditions are observed.
 
-Behavioral expectation:
+**Behavioral expectation:**
 Teams should escalate hazards early, not after delay impacts appear. Early escalation protects both safety and service reliability.
 
-5) Common disruptions and response approach
+## 5. Common Disruptions and Response Approach
 No terminal runs perfectly every shift. Structured response keeps disruptions contained.
 
 Frequent disruption types:
@@ -148,22 +148,22 @@ Frequent disruption types:
 - Documentation mismatches or missing shipment data
 - Weather-related slowdowns or temporary suspension
 
-Practical response model (Detect → Stabilize → Recover → Learn):
+Practical response model (Detect -> Stabilize -> Recover -> Learn):
 1. Detect: Identify the issue quickly with reliable operational signals.
 2. Stabilize: Protect safety and prevent issue spread (pause affected area if needed).
 3. Recover: Re-plan resources/tracks/sequences to restore flow and priority services.
 4. Learn: Capture root cause and update shift handover or standard work.
 
-6) Best-practice habits for high-performing terminals
+## 6. Best-Practice Habits for High-Performing Terminals
 - Start each shift with a short, risk-focused operational briefing.
 - Keep one agreed source of truth for train, wagon, and cargo status.
 - Use exception codes consistently so disruption data is actionable.
 - Prioritize clean handovers between shifts to prevent repeated errors.
 - Review KPIs daily with both productivity and safety in the same discussion.
 
-Knowledge check
+## Knowledge Check
 
-Part A: Multiple-choice (choose one answer)
+### Part A: Multiple-Choice (Choose One Answer)
 1. What is the most important outcome of accurate pre-arrival planning?
 A) Reduced paperwork only
 B) Prevention of downstream delays and rework
@@ -194,19 +194,19 @@ B) Detect → Stabilize → Recover → Learn
 C) Learn → Recover → Detect → Stabilize
 D) Stabilize → Learn → Detect → Recover
 
-Part B: Short scenario prompts
+### Part B: Short Scenario Prompts
 1. A train arrives with two wagons in a different order than planned. List three immediate actions the terminal team should take before handling starts.
 2. A reach stacker fails halfway through peak operations. Describe how you would stabilize safety and recover flow in the next 60 minutes.
 3. End of shift handover reveals unresolved documentation mismatches. What minimum information should be handed over to the next team?
 
-Answer key (Part A)
+## Answer Key (Part A)
 1) B
 2) C
 3) B
 4) B
 5) B
 
-Completion criteria
+## Completion Criteria
 Learners are considered complete when they:
 - Read all sections of the module,
 - Score at least 80% on Part A,
