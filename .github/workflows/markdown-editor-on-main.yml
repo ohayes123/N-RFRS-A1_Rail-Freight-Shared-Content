@@ -77,4 +77,4 @@ jobs:
             --repo "$REPO" \
             --title "Copilot: update Markdown after push ${SHA}" \
             --body "$BODY" \
-            --assignee "copilot-swe-agent[bot]"
+            --assignee "Copilot"
