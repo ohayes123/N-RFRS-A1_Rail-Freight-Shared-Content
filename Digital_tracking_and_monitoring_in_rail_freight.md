@@ -1,5 +1,7 @@
 # Digital Tracking and Monitoring in Rail Freight
 
+> Note: This draft is superseded by [digital-tracking-monitoring-in-rail freight.md](digital-tracking-monitoring-in-rail%20freight.md), which is the current canonical lesson version.
+
 ## Learning Module Overview
 
 This module explains how modern digital technologies are transforming rail freight operations by providing real-time visibility, enhancing safety, and improving efficiency. You will learn about the core technologies used, how they work together, and how they benefit freight operators and customers.
