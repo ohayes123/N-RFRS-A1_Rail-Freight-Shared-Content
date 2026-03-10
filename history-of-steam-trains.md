@@ -38,7 +38,7 @@ In colonial territories, railways became instruments of economic exploitation, e
 
 ### Locomotive design and evolution
 
-Early steam locomotives were experimental devices, and engineers continuously refined their designs. Key innovations included:
+Early steam locomotives were experimentalz devices, and engineers continuously refined their designs. Key innovations included:
 
 - improved boiler designs that increased steam pressure and efficiency
 - better valve systems for controlling steam flow
