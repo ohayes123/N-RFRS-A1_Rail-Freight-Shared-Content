@@ -28,4 +28,9 @@
 - Cybersecurity risks grow with connected control systems.
 - Natural disasters, extreme weather or supply-chain shocks can disrupt networks.
 
+### 8. **Financial Viability & Competition**
+- High capital and operating costs squeeze margins.
+- Subsidies and pricing pressure from road and air freight operators.
+- Fluctuating fuel prices and market demand make long‑term planning difficult.
+
 > **Tip**: Each of these headings could serve as a section in your markdown file. Add real-world examples (e.g. congestion at the Port of Rotterdam, investment in HS2, or cyber attacks on rail operators) to bring the analysis to life.
