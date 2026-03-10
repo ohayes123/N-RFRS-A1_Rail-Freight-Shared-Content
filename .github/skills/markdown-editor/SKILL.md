@@ -1,6 +1,6 @@
 ---
-name: editing
-description: "Use when editing, proofreading, or normalizing Markdown files to WiseTech Academy house style (Part 2 grammar and style), while preserving facts, terms, and technical meaning."
+name: markdown-editor
+description: Use this when asked to edit, normalize, standardize, or improve Markdown files in this repository, especially after changes to .md or .mdx files.
 ---
 
 # Markdown house-style editor (Part 2)
