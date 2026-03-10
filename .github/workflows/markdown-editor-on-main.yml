@@ -1,0 +1,80 @@
+name: Run markdown skill after push to main
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  ask-copilot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect changed Markdown files
+        id: changed
+        shell: bash
+        run: |
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            FILES=$(git ls-files '*.md' '*.mdx' || true)
+          else
+            FILES=$(git diff --name-only "$BEFORE" "$AFTER" -- '*.md' '*.mdx' || true)
+          fi
+
+          {
+            echo "files<<EOF"
+            echo "$FILES"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Stop when no Markdown files changed
+        if: steps.changed.outputs.files == ''
+        run: echo "No Markdown changes detected."
+
+      - name: Create issue for Copilot
+        if: steps.changed.outputs.files != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.sha }}
+          FILES: ${{ steps.changed.outputs.files }}
+        shell: bash
+        run: |
+          BODY=$(cat <<EOF
+          A new commit was pushed to \`main\`.
+
+          Commit:
+          \`${SHA}\`
+
+          Changed Markdown files:
+          ${FILES}
+
+          Task:
+          Review and improve only the Markdown files listed above.
+
+          Instructions:
+          - Use the repository Markdown skill if relevant.
+          - Keep changes minimal and focused.
+          - Preserve meaning and technical accuracy.
+          - Standardize headings, lists, spacing, and code fences.
+          - Fix obvious relative Markdown link issues when the target is clear.
+          - Open a pull request with the documentation updates.
+          EOF
+          )
+
+          gh issue create \
+            --repo "$REPO" \
+            --title "Copilot: update Markdown after push ${SHA}" \
+            --body "$BODY" \
+            --assignee "copilot-swe-agent[bot]"
