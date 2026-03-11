@@ -26,22 +26,22 @@ The Rainhill Trials of 1829 demonstrated the superiority of Stephenson's "Rocket
 
 The success of the Liverpool and Manchester Railway triggered explosive growth in railway construction. By 1840, Britain had approximately 2,400 kilometres of railway track. By 1870, that figure had risen to approximately 24,000 kilometres. Railways became the dominant form of long-distance transport for both goods and passengers, fundamentally altering patterns of settlement, trade, and industrial location.
 
-Large towns benefited greatly from railway connections, whilst remote areas and small villages often declined as transport patterns shifted. The railways enabled the growth of suburbs around cities, as workers could now live further from their places of employment.
+Large towns benefited greatly from railway connections, while remote areas and small villages often declined as transport patterns shifted. The railways enabled the growth of suburbs around cities, as workers could now live further from their places of employment.
 
 ### International expansion
 
-By the 1830s, railway technology had spread to Europe and North America. The first railway in continental Europe opened in Belgium in 1835, whilst the United States saw the Charleston and Hamburg Railway begin operations in 1833. Each nation adapted railway technology to suit local conditions and economic needs.
+By the 1830s, railway technology had spread to Europe and North America. The first railway in continental Europe opened in Belgium in 1835, while the United States saw the Charleston and Hamburg Railway begin operations in 1833. Each nation adapted railway technology to suit local conditions and economic needs.
 
 In colonial territories, railways became instruments of economic exploitation, enabling the extraction and transport of raw materials to ports for export. India saw extensive railway development by the British colonial authorities, as did other parts of the British Empire.
 
 ## Technical development
 
-### Locomotive design and evolut
+### Locomotive design and evolution
 
-Early steam locomotives were experimentalz devices, and engineers continuously refined their designs. Key innovations included:
+Early steam locomotives were experimental devices, and engineers continuously refined their designs. Key innovations included:
 
-- improved boiler designs that increased steam pressure and efficiencyyyyy
-- better valve systems for controlling steam flowTWER
+- improved boiler designs that increased steam pressure and efficiency
+- better valve systems for controlling steam flow
 - enhanced suspension and wheel arrangements to allow higher speeds and heavier loads
 - the development of the "standard gauge" of 1,435 millimetres (4 feet 8.5 inches), which became dominant across most of the world
 
@@ -51,7 +51,7 @@ By the late 19th century, steam locomotives had evolved into highly sophisticate
 
 As railways matured, track quality improved significantly. Early railways used brittle cast iron rails that often cracked; iron and later steel rails proved far more durable. Railway engineers developed increasingly sophisticated engineering solutions for gradients, curves, and water crossings.
 
-Signalling systems evolved from simple railway staff systems to complex mechanical signalling arrangements and eventually to electrical systems. These innovations allowed railways to operate with frequency and safety that earlier generations could scarcely have imaginedddxx.
+Signalling systems evolved from simple railway staff systems to complex mechanical signalling arrangements and eventually to electrical systems. These innovations allowed railways to operate with frequency and safety that earlier generations could scarcely have imagined.
 
 ## The golden age of steam railways
 
