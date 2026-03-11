@@ -40,12 +40,12 @@ In colonial territories, railways became instruments of economic exploitation, e
 
 Early steam locomotives were experimentalz devices, and engineers continuously refined their designs. Key innovations included:
 
-- improved boiler designs that increased steam pressure and efficiencyyyyy
+- improved boiler designs that increased steam pressure and efficiency
 - better valve systems for controlling steam flowTWER
 - enhanced suspension and wheel arrangements to allow higher speeds and heavier loads
 - the development of the "standard gauge" of 1,435 millimetres (4 feet 8.5 inches), which became dominant across most of the world
 
-By the late 19th century, steam locomotives had evolved into highly sophisticated pieces of engineering. Compound locomotives, which used steam more efficiently, became increasingly common. Express steam locomotives could achieve speeds in excess of 160 kilometres per hour (100 miles per hour), making railway travel faster than any alternative form of transport.
+By the late 19th century, steam locomotives had evolved into highly sophisticated pieces of engineering. Compound locomotives, which used steam more efficiently, became increasingly common. Express steam locomotives could achieve speeds in excess of 160 kilometres per hour (100 miles per hour), making railway travel faster than any alternative form of transporttttttttttttttt.asdfasdfasefa
 
 ### Track and signalling
 
@@ -55,7 +55,7 @@ Signalling systems evolved from simple railway staff systems to complex mechanic
 
 ## The golden age of steam railways
 
-The late 19th and early 20th centuries represented the peak of steam locomotive development and use. Iconic express trains connected major cities, offering comfortable accommodation and catering to affluent passengers. The Flying Scotsman, the Orient Express, and the Twentieth Century Limited became legendary services celebrated in literature and popular culture.
+The late 19th and early 20th centuries represented the peak of steam locomotive development and use. Iconic express trains connected major cities, offering comfortable accommodation and catering to affluent passengers. The Flying Scotsman, the Orient Express, and the Twentieth Century Limited became legendary services celebrated in literature and popular culture.wertwrt
 
 Freight trains hauled the raw materials and manufactured goods that powered industrial economies. Coal trains from mining regions carried fuel to power stations and industrial consumers. Passenger services reached even small stations in rural areas, serving as a crucial lifeline for communities dependent on the railway for access to markets and services.
 
