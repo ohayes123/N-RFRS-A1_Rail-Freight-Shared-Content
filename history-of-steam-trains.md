@@ -40,7 +40,7 @@ In colonial territories, railways became instruments of economic exploitation, e
 
 Early steam locomotives were experimentalz devices, and engineers continuously refined their designs. Key innovations included:
 
-- improved boiler designs that increased steam pressure and efficiency
+- improved boiler designs that increased steam pressure and efficiencyyyyy
 - better valve systems for controlling steam flowTWER
 - enhanced suspension and wheel arrangements to allow higher speeds and heavier loads
 - the development of the "standard gauge" of 1,435 millimetres (4 feet 8.5 inches), which became dominant across most of the world
