@@ -77,7 +77,8 @@ jobs:
           ISSUE_URL=$(gh issue create \
             --repo "$REPO" \
             --title "Copilot: update Markdown after push ${SHA}" \
-            --body "$BODY")
+            --body "$BODY" \
+            --assignee "copilot")
 
           echo "Created issue: $ISSUE_URL"
           ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -oE '[0-9]+$')
@@ -93,22 +94,12 @@ jobs:
           ISSUE_NUMBER="${{ steps.create-issue.outputs.issue_number }}"
           echo "Attempting to assign copilot to issue #${ISSUE_NUMBER}..."
 
-          API_RESPONSE=$(gh api \
-            --method POST \
-            --include \
-            "/repos/${REPO}/issues/${ISSUE_NUMBER}/assignees" \
-            --field "assignees[]=copilot" \
-            2>&1) || true
-
-          echo "API response:"
-          echo "$API_RESPONSE"
-
-          JSON_BODY=$(echo "$API_RESPONSE" | awk '/^[[:space:]]*$/{found=1; next} found{print}')
-
-          if echo "$JSON_BODY" | jq -e '.assignees[]? | select(.login == "copilot")' > /dev/null 2>&1; then
+          if gh issue edit "${ISSUE_NUMBER}" \
+            --add-assignee "copilot" \
+            --repo "$REPO"; then
             echo "Successfully assigned copilot to issue #${ISSUE_NUMBER}."
           else
-            echo "WARNING: Copilot assignment may have failed or copilot was not in the returned assignees list."
+            echo "WARNING: Copilot assignment may have failed."
             echo "The issue (#${ISSUE_NUMBER}) was still created. You may need to assign Copilot manually,"
             echo "or check that the Copilot coding agent is enabled for this repository."
           fi
