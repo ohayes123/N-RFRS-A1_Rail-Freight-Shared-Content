@@ -73,15 +73,20 @@ jobs:
           EOF
           )
 
-          ISSUE_NUMBER=$(gh issue create \
+          ISSUE_URL=$(gh issue create \
             --repo "$REPO" \
             --title "Copilot: update Markdown after push ${SHA}" \
-            --body "$BODY" \
-            --json number \
-            --jq '.number')
+            --body "$BODY")
+
+          if [ -z "$ISSUE_URL" ]; then
+            echo "Failed to create issue: no URL returned" >&2
+            exit 1
+          fi
+
+          ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -oE '[0-9]+$')
 
           if [ -z "$ISSUE_NUMBER" ]; then
-            echo "Failed to create issue" >&2
+            echo "Failed to parse issue number from URL: $ISSUE_URL" >&2
             exit 1
           fi
 
