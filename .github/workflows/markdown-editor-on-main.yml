@@ -86,29 +86,12 @@ jobs:
       - name: Assign Copilot to issue
         if: steps.changed.outputs.files != '' && steps.create-issue.outputs.issue_number != ''
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.COPILOT_USER_TOKEN }}
           REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ steps.create-issue.outputs.issue_number }}
         shell: bash
         run: |
-          ISSUE_NUMBER="${{ steps.create-issue.outputs.issue_number }}"
-          echo "Attempting to assign copilot to issue #${ISSUE_NUMBER}..."
-
-          API_RESPONSE=$(gh api \
-            --method POST \
-            --include \
-            "/repos/${REPO}/issues/${ISSUE_NUMBER}/assignees" \
-            --field "assignees[]=copilot" \
-            2>&1) || true
-
-          echo "API response:"
-          echo "$API_RESPONSE"
-
-          JSON_BODY=$(echo "$API_RESPONSE" | awk '/^[[:space:]]*$/{found=1; next} found{print}')
-
-          if echo "$JSON_BODY" | jq -e '.assignees[]? | select(.login == "copilot")' > /dev/null 2>&1; then
-            echo "Successfully assigned copilot to issue #${ISSUE_NUMBER}."
-          else
-            echo "WARNING: Copilot assignment may have failed or copilot was not in the returned assignees list."
-            echo "The issue (#${ISSUE_NUMBER}) was still created. You may need to assign Copilot manually,"
-            echo "or check that the Copilot coding agent is enabled for this repository."
-          fi
+          echo "Assigning Copilot to issue #${ISSUE_NUMBER}..."
+          gh issue edit "$ISSUE_NUMBER" \
+            --repo "$REPO" \
+            --add-assignee "@copilot"
