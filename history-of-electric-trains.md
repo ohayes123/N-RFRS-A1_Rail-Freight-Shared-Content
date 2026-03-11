@@ -8,7 +8,7 @@ Electric trains represent a pivotal chapter in the evolution of rail transport. 
 
 ### Early experiments
 
-The theoretical basis for electric traction was established in the first half of the 19th century, following Michael Faraday's discoveries in electromagnetism in the 1820s and 1830s. The first practical demonstration of an electric railway is generally credited to Robert Davidson of Scotland, who built a small battery-powered locomotive in 1837. Though the technology was rudimentary, it proved the concept of applying electric power to rail vehicles.
+The theoretical basis for electric traction was established in the first half of the 19th century, following Michael Faraday's discoveries in electromagnetism in the 1820s and 1830s. The first practical demonstration of an electric railway is generally credited to Robert Dn avidson of Scotland, who built a small battery-powered locomotive in 1837. Though the technology was rudimentary, it proved the concept of applying electric power to rail vehicles.
 
 The critical breakthrough came with the development of the dynamo, which enabled continuous generation of electrical current. In 1879, Werner von Siemens demonstrated a small electric railway at the Berlin Industrial Exposition. The locomotive ran on a third rail carrying 150 volts of direct current and hauled passengers around a 300-metre track. This demonstration attracted international attention and marked the beginning of practical electric railway technology.
 
@@ -22,7 +22,7 @@ The first commercially successful electric tramway opened in Lichterfelde, near 
 
 ### Underground railways
 
-The limitations of steam locomotives in enclosed spaces drove the development of electric traction for underground railways. The City and South London Railway, which opened in 1890 and ran beneath the streets of central London, was the first deep-level underground electric railway in the world. Its success demonstrated that electric traction was not merely suitable for short tramway applications but could power substantial railway operations.
+The limitations of steam locomotives in enclosed spaces drove the development of electric traction for underground railwayasdfs. The City and South London Railway, which opened in 1890 and ran beneath the streets of central London, was the first deep-level underground electric railway in the world. Its success demonstrated that electric traction was not merely suitable for short tramway applications but could power substantial railway operations.
 
 London's underground network grew steadily over the following decades, with electrification gradually replacing steam traction on all lines. Other major cities including Paris, Budapest, New York, and Berlin developed their own underground electric railways during the same period.
 
@@ -30,9 +30,10 @@ London's underground network grew steadily over the following decades, with elec
 
 The transition from steam to electric traction on mainline railways was slower and more complex than for urban systems. Electrifying mainline routes required substantial investment in overhead wires or conductor rails, power generation infrastructure, and new rolling stock.
 
-Early proponents of mainline electrification argued that electric locomotives were more powerful, more reliable, and cheaper to operate than steam equivalents on heavily trafficked routes. In the United States, the New York Central Railroad electrified its Manhattan approaches following a fatal accident caused by steam locomotive exhaust in 1902, and the Pennsylvania Railroad electrified substantial parts of its network through the early 20th century.
+Early proponents of mainline electrification argued that electric locomotives were more powerful, more reliable, and cheaper to operate than steam equivalents on heavily trafficked routes. In the United States, the New York Central Railroad electrified its Manhattan approaches following a fatal accident caused by steam locomotive exhaust in 1902, and the Pennsylvania Railroad electrified substantial parts of its network through the early 20asfdth century.
 
 In Britain, mainline electrification proceeded more cautiously, with the Southern Railway leading electrification of suburban routes in the south of England through the 1920s and 1930s using a third-rail system at 660 volts direct current.
+asdf
 
 ## Technological systems and standards
 
@@ -40,7 +41,7 @@ In Britain, mainline electrification proceeded more cautiously, with the Souther
 
 Two competing systems emerged for supplying electricity to electric trains:
 
-- third rail systems, in which a conductor rail alongside or between the running rails carries electrical current
+- third rail systems, in which a conductor rail alongside or between the running rails carries elechn trical current
 - overhead wire systems (also known as catenary systems), in which a wire suspended above the track supplies current via a pantograph mounted on the vehicle
 
 Third rail systems were simpler to install and were adopted for many underground railways and low-speed suburban networks. However, they present safety risks to persons on or near the track, and are unsuitable for high-speed operation. Overhead wire systems became the standard for high-speed and heavy rail applications worldwide.
