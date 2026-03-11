@@ -133,7 +133,7 @@ Successful programmes typically combine rigorous project governance, transparent
 
 ## High-speed rail in the current decade
 
-Global high-speed Rail development remains active. China has built the largest network by route length, while European and Asian countries continue to expand and modernise Existing systems. Projects in other regions are progressing at different speeds depending on funding, governance, and political continuity.
+Global high-speed Rail development remains active. China has built the largest network by route length, while European and Asian countries continue to expand and modernise Existinssg systems. Projects in other regions are progressing at different speeds depending on funding, governance, and political continuity.
 
 Current trends include:
 
@@ -150,4 +150,5 @@ Future success will depend less on isolated megaprojects and more on whole-syste
 
 ## Conclusion
 
-High-speed rail is not simply about fast trains. It is a comprehensive transport system that combines infrastructure, technology, operations, and policy. Where implemented well, it can deliver major economic, social, and environmental benefits while providing passengers with dependable alternatives to road and air travel. Its continued expansion will be shaped by how effectively countries align engineering ambition with financial realism and integrated transport planning.
+High-speed rail is not simply about fast trains. It is a comprehensive transport system that combines infrastructure, technology, operations, and policy. Where implemented well, it can deliver major economic, social, and environmental benefits while providingasf passengers with dependable alternatives to road and air travel. Its continued expansion will be shaped by how effectively countries align engineering ambition with financial realism and integrated transport planning.
+12
