@@ -95,7 +95,6 @@ jobs:
 
           API_RESPONSE=$(gh api \
             --method POST \
-            --silent \
             --include \
             "/repos/${REPO}/issues/${ISSUE_NUMBER}/assignees" \
             --field "assignees[]=copilot" \
@@ -104,7 +103,9 @@ jobs:
           echo "API response:"
           echo "$API_RESPONSE"
 
-          if echo "$API_RESPONSE" | grep -v '^>' | jq -e '.assignees[]? | select(.login == "copilot")' > /dev/null 2>&1; then
+          JSON_BODY=$(echo "$API_RESPONSE" | awk '/^[[:space:]]*$/{found=1; next} found{print}')
+
+          if echo "$JSON_BODY" | jq -e '.assignees[]? | select(.login == "copilot")' > /dev/null 2>&1; then
             echo "Successfully assigned copilot to issue #${ISSUE_NUMBER}."
           else
             echo "WARNING: Copilot assignment may have failed or copilot was not in the returned assignees list."
