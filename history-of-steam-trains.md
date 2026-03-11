@@ -51,7 +51,7 @@ By the late 19th century, steam locomotives had evolved into highly sophisticate
 
 As railways matured, track quality improved significantly. Early railways used brittle cast iron rails that often cracked; iron and later steel rails proved far more durable. Railway engineers developed increasingly sophisticated engineering solutions for gradients, curves, and water crossings.
 
-Signalling systems evolved from simple railway staff systems to complex mechanical signalling arrangements and eventually to electrical systems. These innovations allowed railways to operate with frequency and safety that earlier generations could scarcely have imagined.
+Signalling systems evolved from simple railway staff systems to complex mechanical signalling arrangements and eventually to electrical systems. These innovations allowed railways to operate with frequency and safety that earlier generations could scarcely have imaginedddxx.
 
 ## The golden age of steam railways
 
