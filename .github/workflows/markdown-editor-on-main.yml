@@ -73,8 +73,19 @@ jobs:
           EOF
           )
 
-          gh issue create \
+          ISSUE_NUMBER=$(gh issue create \
             --repo "$REPO" \
             --title "Copilot: update Markdown after push ${SHA}" \
             --body "$BODY" \
-            --assignee "@copilot"
+            --json number \
+            --jq '.number')
+
+          if [ -z "$ISSUE_NUMBER" ]; then
+            echo "Failed to create issue" >&2
+            exit 1
+          fi
+
+          printf '{"assignees":["copilot"]}' | gh api \
+            --method POST \
+            "/repos/${REPO}/issues/${ISSUE_NUMBER}/assignees" \
+            --input -
