@@ -28,10 +28,10 @@ A major turning point came in 1905 with the establishment of Ferrovie dello Stat
 
 From an operations perspective, state control enabled better system-level decisions in areas such as:
 
-1. rolling stock allocation across regions
-2. maintenance planning and workshop organization
-3. traffic management and timetable harmonization
-4. investment prioritization on key trunk lines
+- rolling stock allocation across regions
+- maintenance planning and workshop organization
+- traffic management and timetable harmonization
+- investment prioritization on key trunk lines
 
 This period did not remove all inefficiencies, but it created an institutional framework capable of long-term planning. For freight and passenger services alike, the shift reduced some of the coordination losses typical of multi-operator concession models and improved resilience on high-demand routes.
 
@@ -73,10 +73,10 @@ Although public attention often focuses on high-speed passenger services, freigh
 
 Key operational priorities include:
 
-1. improving port-rail interfaces for faster hinterland distribution
-2. expanding terminal throughput and intermodal handling efficiency
-3. increasing corridor reliability for international freight paths
-4. improving last-mile access where industrial geography constrains rail usage
+- improving port-rail interfaces for faster hinterland distribution
+- expanding terminal throughput and intermodal handling efficiency
+- increasing corridor reliability for international freight paths
+- improving last-mile access where industrial geography constrains rail usage
 
 Intermodal growth has strengthened the case for terminal modernization, digital planning tools, and tighter coordination between infrastructure managers, operators, and logistics providers. Performance in these areas has direct effects on modal shift outcomes, network utilization, and emissions reduction goals.
 
