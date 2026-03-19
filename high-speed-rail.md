@@ -2,16 +2,16 @@
 
 ## Introduction
 
-High-speed rail is one of the most significant transport innovations of the modern era. By combining advanced infrastructure, specialised rolling stock, and highly disciplined operations, high-speed rail systems deliver fast, reliable, and energy-efficient travel between major cities. Over the past six decades, these systems have transformed regional economies, changed travel behaviour, and become central to many countries' long-term transport and decarbonisation strategies.
+High-speed rail is one of the most significant transport innovations of the modern era. By combining advanced infrastructure, specialized rolling stock, and highly disciplined operations, high-speed rail systems deliver fast, reliable, and energy-efficient travel between major cities. Over the past six decades, these systems have transformed regional economies, changed travel behavior, and become central to many countries' long-term transport and decarbonization strategies.
 
 ## What counts as high-speed rail?
 
-In broad terms, high-speed rail reasdfafers to passenger rail services that operate well above conventional intercity speeds, typically on purpose-built lines designed for sustained high velocity. Internationally, purpose-built high-speed corridors are commonly designed for operational speeds of 250 km/h and above, while upgraded legacy lines may operate around 200 km/h where geometry and signalling permit.
+In broad terms, high-speed rail refers to passenger rail services that operate well above conventional intercity speeds, typically on purpose-built lines designed for sustained high velocity. Internationally, purpose-built high-speed corridors are commonly designed for operational speeds of 250 km/h and above, while upgraded legacy lines may operate around 200 km/h where geometry and signaling permit.
 
 High-speed rail is not defined by train speed alone. A complete system includes:
 
-- dedicated or heavily prioritised infrastructure
-- advanced train control and signalling
+- dedicated or heavily prioritized infrastructure
+- advanced train control and signaling
 - rolling stock engineered for aerodynamic stability and high acceleration
 - integrated station planning and timetable design
 
@@ -19,9 +19,9 @@ High-speed rail is not defined by train speed alone. A complete system includes:
 
 ### Pre-1960 foundations
 
-Railway engineers pursued speed improvemasdfents long before modern high-speed systems emerged. By the early 20th century, steam and electric test runs in Europe and North America demonstrated impressive peak speeds, but these were usually short-lived achievements rather than sustained commercial operations.
+Railway engineers pursued speed improvements long before modern high-speed systems emerged. By the early 20th century, steam and electric test runs in Europe and North America demonstrated impressive peak speeds, but these were usually short-lived achievements rather than sustained commercial operations.
 
-The move from showcase speed records to dependable daily high-speed services required advances in electrification, track engineering, signalling, braking systems, and operations management.
+The move from showcase speed records to dependable daily high-speed services required advances in electrification, track engineering, signaling, braking systems, and operations management.
 
 ### Japan and the birth of modern high-speed rail
 
@@ -34,7 +34,7 @@ Key characteristics of the Shinkansen model included:
 - strict separation from slower freight and regional traffic
 - high-frequency timetabling and punctual operations
 
-The system demonstrated that rail could compete directly with air travel on medium-distance routes while maintaining exceptional reliability and safetyyyy.
+The system demonstrated that rail could compete directly with air travel on medium-distance routes while maintaining exceptional reliability and safety.
 
 ### European expansion
 
@@ -53,7 +53,7 @@ Common engineering features include:
 - slab or high-specification ballast track structures
 - extensive use of viaducts and tunnels to maintain gentle gradients
 - fencing and grade separation to eliminate level crossing risk
-- dedicated maintenance windows and predictive asset monitouring
+- dedicated maintenance windows and predictive asset monitoring
 
 ### Electrification and power systems
 
@@ -61,9 +61,9 @@ Most high-speed rail systems are electrified using high-voltage overhead catenar
 
 Power supply resilience is critical. High-speed corridors require robust grid connections, spaced substations, and sophisticated load balancing to support frequent high-power train movements.
 
-### Signalling and train control
+### Signaling and train control
 
-At high speeds, traditonal lineside signalling becomes insufficient because drivers have less time to observe and react. Modern systems therefore rely on in-cab signalling and continuous supervision, such as ETCS in Europe and equivalent systems elsewhere.
+At high speeds, traditional lineside signaling becomes insufficient because drivers have less time to observe and react. Modern systems therefore rely on in-cab signaling and continuous supervision, such as ETCS in Europe and equivalent systems elsewhere.
 
 These systems provide:
 
@@ -92,7 +92,7 @@ High-speed rail succeeds when speed is combined with reliability and convenience
 Operational strengths often include:
 
 - high service frequency throughout the day
-- fast station dwell times and disiplined dispatch
+- fast station dwell times and disciplined dispatch
 - seamless interchange with metro, regional rail, and buses
 - simple fare products for business and leisure markets
 
@@ -102,7 +102,7 @@ When stations are centrally located and interchange is efficient, high-speed rai
 
 Well-planned high-speed rail can reshape national and regional economies. Typical impacts include:
 
-- stronger labour market integration between cities
+- stronger labor market integration between cities
 - wider access to education and specialist services
 - business agglomeration around major stations
 - growth in tourism and convention activity
@@ -111,14 +111,14 @@ However, outcomes vary by corridor and policy context. Benefits are greatest whe
 
 ## Environmental performance
 
-High-speed rail is widely viewed as a lower-carbon intercity mode, particularly when powered by low-emission electricity. It can shift demand from short-haul aviation and private car travel, reducing transport-sector emissions per passenger-kilometre.
+High-speed rail is widely viewed as a lower-carbon intercity mode, particularly when powered by low-emission electricity. It can shift demand from short-haul aviation and private car travel, reducing transport-sector emissions per passenger-kilometer.
 
 That said, infrastructure construction has substantial embedded carbon, especially in concrete and steel. The climate case is strongest when:
 
 - passenger demand is high
 - mode shift from higher-emission transport is significant
-- electricity generation is progressively decarbonised
-- asset life is maximised through maintenance and renewals planning
+- electricity generation is progressively decarbonized
+- asset life is maximized through maintenance and renewals planning
 
 ## Challenges and criticisms
 
@@ -129,11 +129,11 @@ Despite its advantages, high-speed rail faces legitimate challenges:
 - risk of cost escalation in complex geologies and urban interfaces
 - equity concerns if fares or station access exclude some communities
 
-Successful programmes typically combine rigorous project governance, transparent procurement, staged delivery, and clear integration with wider transport policy.
+Successful programs typically combine rigorous project governance, transparent procurement, staged delivery, and clear integration with wider transport policy.
 
 ## High-speed rail in the current decade
 
-Global high-speed Rail development remains active. China has built the largest network by route length, while European and Asian countries continue to expand and modernise Existinssg systems. Projects in other regions are progressing at different speeds depending on funding, governance, and political continuity.
+Global high-speed rail development remains active. China has built the largest network by route length, while European and Asian countries continue to expand and modernize existing systems. Projects in other regions are progressing at different speeds depending on funding, governance, and political continuity.
 
 Current trends include:
 
@@ -150,5 +150,4 @@ Future success will depend less on isolated megaprojects and more on whole-syste
 
 ## Conclusion
 
-High-speed rail is not simply about fast trains. It is a comprehensive transport system that combines infrastructure, technology, operations, and policy. Where implemented well, it can deliver major economic, social, and environmental benefits while providingasf passengers with dependable alternatives to road and air travel. Its continued expansion will be shaped by how effectively countries align engineering ambition with financial realism and integrated transport planning.
-12
+High-speed rail is not simply about fast trains. It is a comprehensive transport system that combines infrastructure, technology, operations, and policy. Where implemented well, it can deliver major economic, social, and environmental benefits while providing passengers with dependable alternatives to road and air travel. Its continued expansion will be shaped by how effectively countries align engineering ambition with financial realism and integrated transport planning.
