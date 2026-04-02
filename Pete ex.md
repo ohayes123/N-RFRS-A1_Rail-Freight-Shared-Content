@@ -16,7 +16,7 @@ Rail freight offers significant competitive advantages for long-distance and bul
 - Match cargo profile to rail strengths: bulk commodities, intermodal, long distances (>600 km)
 - Use block trains for consistent volumes to maximise efficiency
 - Combine with efficient last-mile trucking contracts to optimise total supply chain cost
-- Conduct modal optimisation analysis (TCO) to identify rail-suitable lanes
+- Conduct modal optimisation analysis (TCO) to identify rail-suitable lane
 
 ---
 
